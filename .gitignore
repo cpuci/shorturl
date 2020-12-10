@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+.vscode
+*.vim
+/config.json
